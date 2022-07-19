@@ -16,6 +16,7 @@ Throughout my career, I’ve worked with the following:
 ### Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
